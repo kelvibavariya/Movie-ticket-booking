@@ -1,0 +1,7 @@
+*******************************
+Name of the Movie: Movie2
+Total no of general seat: 2
+Total no of VIP seat: 2
+Your Total Payment: 1400
+~~~~~~~ENJOY YOUR MOVIE~~~~~~~
+*******************************
